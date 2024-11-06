@@ -67,5 +67,5 @@ p{
 .Lista2{
     list-style: none;
     margin-left: 18px;
-    gap: 10px;
+    flex-direction: column;
 }
