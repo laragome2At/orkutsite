@@ -1,0 +1,25 @@
+body{ margin: 0;
+}
+.menu{ background-color: rgb(45, 70, 212); 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 70px;
+}
+.Lista{ list-style: none; 
+    display: flex; 
+    flex-direction: row; 
+    gap: 50px; 
+    font-size: 17px; 
+    margin-left: -100px;
+    margin-top: 50px; 
+    color: white;
+   }
+img{
+    width: 160px;
+    margin-left: -240px;
+    margin-top: -40px;
+}
+.sair{
+    margin-left: 639px
+}
