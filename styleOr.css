@@ -1,5 +1,5 @@
 body{ margin: 0;
-    background-color: rgb(230, 238, 245);
+    background-color: rgb(193, 203, 212);
 }
 .menu{ background-color: rgb(45, 70, 212); 
     display: flex; 
@@ -50,6 +50,7 @@ input{
     border-top-width: 21px;
     border-top-style: solid;
     border-color: rgb(230, 238, 245);
+    margin-left: 18px;
 }
 .sra{
     width: 250px;
@@ -57,7 +58,7 @@ input{
     margin-top: 24px;
 }
 p{
-    color: rgb(45, 70, 212);
+    color: rgb(11, 23, 95);
     font-family:sans-serif;
     margin-left: 27px;
 }
@@ -68,4 +69,10 @@ p{
     list-style: none;
     margin-left: 18px;
     flex-direction: column;
+    color: rgb(75, 75, 235);
+}
+.principal{
+    background-color: white;
+    width: 300px;
+    height: 850px;
 }
