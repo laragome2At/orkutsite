@@ -132,11 +132,28 @@ h1{
 .social{
     background-color: rgb(38, 38, 141);
     color: white;
-    border: 0px;
     padding-left: 7px;
     padding-right: 7px;
     border-bottom-left-radius: 0px;
     border-bottom-right-radius: 0px;
-    margin-top: 23px;
+    margin-top: 35px;
     margin-left: 18px;
+    border: 0px;
+}
+.infos{
+    list-style: none;
+    display: grid;
+    gap: 20px;
+    margin-left: -40px;
+}
+.amigos{
+    background-color: white;
+    width: 540px;
+    height: 170px;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 25px;
+}
+h2{
+    margin-left: 27px;
 }
