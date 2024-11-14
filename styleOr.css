@@ -1,5 +1,5 @@
 body{ margin: 0;
-    background-color: rgb(193, 203, 212);
+    background-color: rgb(186, 206, 223);
 }
 .menu{ background-color: rgb(45, 70, 212); 
     display: flex; 
@@ -27,7 +27,7 @@ img{
 }
 input{
     margin-left: -4px;
-    margin-top: -11px;
+    margin-top: -13px;
     border-radius: 5px;
     border-top-width: 6px;
     border-top-style: solid;
@@ -39,6 +39,10 @@ input{
     border-right-style: solid;
     border-color: rgb(7, 7, 138);
     height: 30px;
+}
+.lupa{
+    margin-top: 2px;
+    margin-left: -77px;
 }
 .canto{
     background-color: white;
@@ -72,7 +76,8 @@ p{
     margin-left: -75px;
     padding-bottom: 5px;
     padding-top: 5px;
-    border-color: rgb(219, 208, 208);
+    padding-left: 14px;
+    border-color: rgb(241, 237, 237);
 }
 .info{
     color: rgb(114, 111, 111);
